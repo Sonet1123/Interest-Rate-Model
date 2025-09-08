@@ -4,7 +4,7 @@ Hull–White (1F) Extended Vasicek Model Bond Option Pricing
 
 This project prices **European options on zero-coupon bonds** under **Hull–White (one factor)** and compares to **Black-76**. Includes three curve builds (flat, pillar, bootstrapped), sanity checks, and small sensitivity analyses.
 
-## Why
+## 
 - Show that HW1f bond options ≡ Black-76 when using the **HW-implied bond-price volatility** (σ_P).
 - Demonstrate put–call parity and the relative impact of **volatility vs curve vs mean reversion**.
 
